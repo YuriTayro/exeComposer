@@ -17,3 +17,5 @@ $catalogo->addProdutos($produto3);
 
 echo "Produtos no Catálogo: ".PHP_EOL;
 $catalogo->listarProdutos();
+
+//teste
