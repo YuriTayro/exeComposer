@@ -25,3 +25,5 @@ require_once __DIR__ . '/../src/App/Catalogo.php';
 require_once __DIR__ . '/../src/App/Produto.php';
 
 return ComposerAutoloaderInit29eebb7005a05ab385bf2b44b1b1c4e4::getLoader();
+
+//teste;
